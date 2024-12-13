@@ -1,4 +1,4 @@
-# advent-of-code-2024
+# advent-of-code
 
 Evening fun whilst teaching some kids to code ;)
 
